@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  ATCalendar
+
+  Created by Wu hung-yi on 2021/3/6.
+  
+*/
+"SUN" = "日";
+"MON" = "一";
+"TUE" = "二";
+"WED" = "三";
+"THU" = "四";
+"FRI" = "五";
+"SAT" = "六";
+"CALENDAR_TITLE" = "授課時間";
+"TIME_HINT" = "* 時間以 %@ 顯示";
+"LOCAL_IDENTIFILER" = "zh_Hant_TW";

@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  ATCalendar
+
+  Created by Wu hung-yi on 2021/3/6.
+  
+*/
+"SUN" = "Sun";
+"MON" = "Mon";
+"TUE" = "Thu";
+"WED" = "Wed";
+"THU" = "Thu";
+"FRI" = "Fri";
+"SAT" = "Sat";
+"CALENDAR_TITLE" = "Available times";
+"TIME_HINT"= "* All times listed are in your local timezone: %@";
+"LOCAL_IDENTIFILER" = "en";
